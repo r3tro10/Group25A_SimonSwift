@@ -1,5 +1,3 @@
-package DisplayManager;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -11,4 +9,5 @@ public class Main {
         displayManager.blinkColoursRandomly();
         displayManager.blinkColoursRandomly();
     }
+
 }
